@@ -130,9 +130,8 @@ public class AsrSpeechView extends JPanel implements ActionListener {
                 asrSpeechInitUI();
             }
         }
-
-
-//        createSocketSever();
+        //开始监听后创建socket，用来和esp8266交互
+        createSocketSever();
     }
 
     /**
@@ -204,7 +203,7 @@ public class AsrSpeechView extends JPanel implements ActionListener {
             resultArea.append(text);
             System.out.println("语音识别结果:"+text);
             Socket accept = null;
-            /*try {
+            try {
                 accept = serverSocket.accept();
                 SocketAddress remoteSocketAddress = accept.getRemoteSocketAddress();
                 System.out.println("有一个客户端接入:" + remoteSocketAddress);
@@ -236,7 +235,7 @@ public class AsrSpeechView extends JPanel implements ActionListener {
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
-            }*/
+            }
             if (islast) {
                 asrSpeechInitUI();
             }
