@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b32043eb-d454-4e58-afb6-b85220025672" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/msc/3628016911139b53e3a4675f57b2ac06/urec.data" afterPath="$PROJECT_DIR$/msc/3628016911139b53e3a4675f57b2ac06/urec.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Msc.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/json-jena-1.0.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iflytek_asr.pcm" afterPath="$PROJECT_DIR$/iflytek_asr.pcm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/iflytek/view/AsrSpeechView.java" afterPath="$PROJECT_DIR$/src/com/iflytek/view/AsrSpeechView.java" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,8 +50,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -63,7 +63,7 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1488719583935" expanded="true" signature="52234:52251" ph="..." />
+                <marker date="1488719723842" expanded="true" signature="52657:52674" ph="..." />
               </folding>
             </state>
           </provider>
@@ -145,6 +145,7 @@
         <option value="$PROJECT_DIR$/src/com/iflytek/view/MainView.java" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/src/com/iflytek/view/AsrSpeechView.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -480,7 +481,14 @@
       <option name="project" value="LOCAL" />
       <updated>1488699683441</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add first">
+      <created>1488719599262</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1488719599262</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -592,7 +600,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1488719583935" expanded="true" signature="52234:52251" ph="..." />
+            <marker date="1488719723842" expanded="true" signature="52657:52674" ph="..." />
           </folding>
         </state>
       </provider>
@@ -667,7 +675,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1488719583935" expanded="true" signature="52234:52251" ph="..." />
+            <marker date="1488719723842" expanded="true" signature="52657:52674" ph="..." />
           </folding>
         </state>
       </provider>
@@ -927,7 +935,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1488719583935" expanded="true" signature="52234:52251" ph="..." />
+            <marker date="1488719723842" expanded="true" signature="52657:52674" ph="..." />
           </folding>
         </state>
       </provider>
@@ -961,8 +969,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
